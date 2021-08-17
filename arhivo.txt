@@ -1,0 +1,5 @@
+Lenguaje Phyton
+print("¡Hola, mundo!")
+> cd Desktop
+> python hola.py
+¡Hola, mundo!
